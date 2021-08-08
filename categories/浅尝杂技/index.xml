@@ -1,20 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>浅尝杂技 on Lunatc&#39;s Blog</title>
-    <link>http://example.org/categories/%E6%B5%85%E5%B0%9D%E6%9D%82%E6%8A%80/</link>
-    <description>Recent content in 浅尝杂技 on Lunatc&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Aug 2021 23:16:57 +0800</lastBuildDate><atom:link href="http://example.org/categories/%E6%B5%85%E5%B0%9D%E6%9D%82%E6%8A%80/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>http://example.org/posts/test/</link>
-      <pubDate>Sat, 07 Aug 2021 23:16:57 +0800</pubDate>
-      
-      <guid>http://example.org/posts/test/</guid>
-      <description>测试 haha Hugo is the world’s fastest framework for building websites. It is written in Go. It makes use of a variety of open source projects including: https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Learn more and contribute on GitHub.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>浅尝杂技 - 分类 - Lunatc&#39;s Blog</title>
+        <link>http://example.org/categories/%E6%B5%85%E5%B0%9D%E6%9D%82%E6%8A%80/</link>
+        <description>浅尝杂技 - 分类 - Lunatc&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 07 Aug 2021 23:16:57 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/%E6%B5%85%E5%B0%9D%E6%9D%82%E6%8A%80/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>http://example.org/posts/test/</link>
+    <pubDate>Sat, 07 Aug 2021 23:16:57 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/test/</guid>
+    <description><![CDATA[测试 haha Hugo is the world’s fastest framework for building websites. It is written in Go. It makes use of a variety of open source projects including: https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Learn more and contribute on GitHub.]]></description>
+</item></channel>
 </rss>
